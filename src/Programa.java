@@ -6,6 +6,9 @@ public class Programa {
 		
 		//creo una variable
 		String saludo = "hola";
+		
+		//imprimo hola
+		System.out.println(saludo);
 
 	}
 
